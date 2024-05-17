@@ -13,5 +13,5 @@ puts 20.1.ceil() #high number value
 puts 20.1.floor() #lower number value
 puts Math.sqrt(36) #square number
 puts Math.log(1) #log number
-puts 1.0 / 7 #return integer number
+puts 10 / 7 #return integer number
 puts 10 / 7.0 #return float number
