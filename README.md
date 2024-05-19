@@ -2,7 +2,7 @@
 
 
 **Ruby Basics Study**
-
+https://www.youtube.com/watch?v=t_ispmWmdjY
 Welcome to the Ruby Basics Study! This guide is designed to introduce you to the fundamentals of the Ruby programming language. Whether you're a beginner taking your first steps into programming or an experienced developer looking to add Ruby to your toolkit, this study material will provide you with a solid foundation.
 
 ### Contents
